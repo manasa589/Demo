@@ -3,5 +3,27 @@
     "name":"MANASA P",
     "label":"student",
     "email":"manasapotluru@gmail.com"
+  },
+   "career":{
+     "info":"To ensue a highly profitable career, seeking for a challengings job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal"
+   },
+   "education":[
+     {
+       "degree":"B-Tech(cse)",
+       "institute":"PVP Siddhardha",
+       "data":["2016-2020","92%"]
+     },
+    {
+      "degree":"Inter(mpc)",
+      "institute":"sri chaitanya",
+      "data":["2014-2016","90%"]
+    },
+  {
+    "degree":"ssc",
+    "institute":"sri chaitanya",
+    "data":["2014","90%"]
   }
+
+
+   ]
 }
