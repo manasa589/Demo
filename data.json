@@ -25,5 +25,20 @@
   }
 
 
-   ]
+],
+"skills":[
+  {
+    "title":"Languages",
+   "content":["C","python","java","c#","c++","php","R"]
+
+ },
+ {
+   "title":"database",
+   "content":["SQL","MongoDB","Mysql"]
+ },
+ {
+   "title":"Frameworks",
+   "content":["Django","Codeigniter"]
+ }
+]
 }
