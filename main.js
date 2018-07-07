@@ -36,15 +36,11 @@ function education(edu){
   var eduHeading=document.createElement("h3");
   eduHeading.textContent="Educational Qualifications";
   child2.appendChild(eduHeading);
-
 var careerHr=document.createElement("Hr");
 child2.appendChild(careerHr);
 var eduTable=document.createElement("table");
-edutable.border="1";
+eduTable.border="1";
 var tr1="<tr><td>Degree</td><td>institute</td><td>data</td><td>"
 eduTable.innerHTML=tr1;
 child2.appendChild(eduTable);
-
-
-
 }
